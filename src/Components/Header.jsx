@@ -94,7 +94,7 @@ export default function Header(props) {
       {/* Render children components */}
       
     </Disclosure>
-    <div className='bg-gray-300'>
+    <div className='bg-gray-200'>
     <div className='max-w-7xl m-auto min-h-screen py-2  px-2'>
     {props.children}
     </div>
